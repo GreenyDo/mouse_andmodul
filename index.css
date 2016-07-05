@@ -92,6 +92,19 @@ html,body,div,ul,li{
 	font-size: 25px;
 	font-family: "微软雅黑";
 	border-radius: 25px;
+	cursor: pointer;
+}
+#codebox1,#codebox2,#codebox3,#codebox4{
+	width: 570px;
+	height: 520px;
+	border: 2px solid #222;
+	position: absolute;
+	z-index: 29;
+	left: 222px;
+	top: 70px;
+	border-radius: 8px;
+	font-size: 15px;
+	font-family: "consolas";
 }
 .content_box{
 	width: 996px;
